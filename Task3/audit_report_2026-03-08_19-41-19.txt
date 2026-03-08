@@ -1,0 +1,21 @@
+PROJECT DIRECTORY AUDIT REPORT
+============================================================
+
+File: data.csv
+Type: csv
+Size: 1 KB
+Age: 0 days
+Flagged: False
+----------------------------------------
+File: test.txt
+Type: txt
+Size: 1 KB
+Age: 0 days
+Flagged: False
+----------------------------------------
+
+SUMMARY
+========================================
+Total Files: 2
+Flagged Files: 0
+Total Size (KB): 2
